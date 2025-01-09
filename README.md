@@ -63,3 +63,9 @@ Generates spatial yield predictions visualized as a heatmap.
 ## Model Performance
 
 The implemented models were evaluated using R² and RMSE metrics on the training dataset. Detailed performance metrics are available in the script output.
+
+
+## note! 
+
+in this notebook file the goal is to be as detailed as possible, the py project is focused on efficiency!
+
