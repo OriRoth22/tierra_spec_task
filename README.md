@@ -12,17 +12,30 @@ This project processes Landsat Collection 2 Level 2 data to:
 ## Requirements
 
 geopandas==1.0.1
+
 matplotlib==3.7.2
+
 numpy==1.24.3
+
 odc_geo==0.4.8
+
 odc_stac==0.3.11
+
 pandas==2.0.3
+
 planetary_computer==1.0.0
+
 pystac_client==0.8.5
+
 rioxarray==0.18.1
+
 scikit_learn==1.4.0
+
 Shapely==2.0.6
+
 xarray>=2024.7.0
+
+
 ## Data Processing Pipeline
 
 ### 1. Scene Selection
