@@ -13,27 +13,31 @@ This project processes Landsat Collection 2 Level 2 data to:
 
 geopandas==1.0.1
 
-matplotlib==3.7.2
+matplotlib==3.9.2
 
-numpy==1.24.3
+numpy==2.1.1
 
-odc_geo==0.4.8
+odc-geo==0.4.8
 
-odc_stac==0.3.11
+odc-stac==0.3.11
 
-pandas==2.0.3
+pandas==2.2.2
 
-planetary_computer==1.0.0
+planetary-computer==1.0.0
 
-pystac_client==0.8.5
+pystac==1.11.0
+
+pystac-client==0.8.5
 
 rioxarray==0.18.1
 
-scikit_learn==1.4.0
+scikit-learn==1.5.2
 
 Shapely==2.0.6
 
-xarray>=2024.7.0
+xarray==2025.1.0
+
+netCDF4 == 1.7.2
 
 
 ## Data Processing Pipeline
